@@ -1,0 +1,21 @@
+title: Документация EnigmaLauncher
+href: index.yaml
+items:
+  - name: Краткий курс - «Как играть и что делать?»
+    href: overview/index.yaml
+  - name: Основные информация KachanovCraft
+    href: main/index.yaml
+  - name: Поддержка KachanovCraft
+    href: support/index.yaml
+  - name: Юридические документы KachanovCraft
+    href: documents/index.yaml
+  - name: Команда KachanovCraft
+    href: team/index.yaml
+  - name: Гайды and FAQ
+    items:
+          - name: Brewery
+            href: guides/brewery/index.yaml
+          - name: Dynmap
+            href: guides/dynmap/index.yaml
+    href: guides/index.yaml
+base: ru

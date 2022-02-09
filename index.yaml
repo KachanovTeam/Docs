@@ -1,0 +1,23 @@
+title: Документация KachanovTeam
+meta:
+  title: KachanovTeam.Docs
+  noIndex: true
+links:
+  - title: Краткий курс - «Как играть и что делать?»
+    description: Все, что вас волнует и интересует.
+    href: overview/
+  - title: Основная информация KachanovCraft
+    description: Основная информация, для участников проекта.
+    href: main/
+  - title: Поддержка KachanovCraft
+    description: Способы и типы оказываемой поддержки участникам проекта.
+    href: support/
+  - title: Юридические документы KachanovCraft
+    description: Принципы и юридические документы, применяемые в проекте.
+    href: documents/
+  - title: Команда KachanovCraft
+    description: Список всех должностей и текущий список лиц, регламенты и правила поведения.
+    href: team/
+  - title: Гайды and FAQ
+    description: Все гайды по плагинам и различная дополнительная информация, которая не указана в других разделах.
+    href: guides/
