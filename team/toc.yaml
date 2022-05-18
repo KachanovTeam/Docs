@@ -1,0 +1,9 @@
+title: Команда KachanovTeam
+href: index.yaml
+items:
+  - name: Иерархия
+    href: hierarchy.md
+  - name: Текущий список
+    href: list.md
+  - name: Регламент Администрации
+    href: reglaments_admins.md
